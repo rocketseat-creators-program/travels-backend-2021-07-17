@@ -1,3 +1,15 @@
+<img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
+
+# Integração Contínua com Git Hub Actions
+
+Na aula de hoje vamos colocar a mão na massa e vamos criar um processo de Integração Contínua, executando os testes unitários, analise estática de código com o Sonar e build de uma API utilizando o Git Hub Actions.
+
+## Expert
+
+| [<img src="https://avatars.githubusercontent.com/u/23644967?v=4" width="75px;"/>](https://github.com/silva-willian) |
+| :-: |
+|[Willian da Silva](https://github.com/silva-willian)|
+
 # Introdução 
 Travel Service
 
@@ -46,5 +58,4 @@ Instale os seguintes itens em sua maquina:
                 -e BRANCH="master" \
                 app-sonar
 
-# Contribuidores
-- Willian da Silva
+

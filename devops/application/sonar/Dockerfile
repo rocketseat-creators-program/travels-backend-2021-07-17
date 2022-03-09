@@ -1,4 +1,3 @@
-# FROM ubuntu:20.04
 FROM mcr.microsoft.com/dotnet/core/sdk:3.1 as build
 
 RUN apt-get update -y && apt-get upgrade -y && \
